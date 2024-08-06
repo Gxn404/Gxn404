@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ShadowmaxCoder
+- I'm a EEE student at NMAMIT, nitte
 - 👀 I’m interested in programming, graphics design, animation, drawing etc
 - 🌱 I’m currently learning kotlin, Android app development, advanced python 
 - 💞️ I’m looking to collaborate on GitHub 
