@@ -53,7 +53,7 @@
 
 ### 📫 Connect with Me
 - 🐙 GitHub: [@gxn404](https://github.com/gxn404)
-- ✉️ Email: gxn404@pm.me
+- ✉️ Email: gonna tag
 - 🌐 Portfolio: `gxn404.dev` *(coming soon — dark mode vibes only)*
 
 ---
