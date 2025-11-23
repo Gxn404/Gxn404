@@ -120,10 +120,6 @@ EEE × UX is an underrated combo, so I’m pushing it.
   <a href="mailto:gaganshetty761@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <p align="center">
-  <a href="https://github.com/gxn404">
-    <img src="https://img.shields.io/badge/GitHub-@gxn404-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4b5563?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
