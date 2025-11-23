@@ -37,7 +37,7 @@
 |----------------------|---------------------------|---------------------------------------|------------|
 | Python 🐍            | Flask, FastAPI            | LTSpice, Proteus, Tinkercad           | Figma      |
 | C / C++ 💾           | Git & GitHub              | Arduino, ESP32, Sensors, Logic ICs    | Lunacy     |
-| Kotlin 📱            | HTML, CSS, JavaScript     | Multisim, KiCAD, 3D circuit diagrams  | Blender    |
+| Kotlin 📱            | HTML, CSS, JavaScript     | KiCAD, 3D circuit diagrams            | Blender    |
 | Bash, Markdown       | Tailwind, Bootstrap       | Simulation engines (WIP)              | Illustrations |
 
 🧪 **Electro-creative mode**:  
