@@ -1,5 +1,5 @@
 <h1 align="center">Yo! I'm Gagan 👨‍💻⚡</h1>
-<h3 align="center">aka <code>Gxn404</code> — EEE Student • Dev-in-Progress • Circuit Bender • UI/Logic Hybrid</h3>
+<h3 align="center">aka <code>GxynnZero</code> — EEE Student • Dev-in-Progress • Circuit Bender • UI/Logic Hybrid</h3>
 
 <p align="center">
   <img 
